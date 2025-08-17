@@ -1,0 +1,8 @@
+
+## requirements.txt
+```txt
+tensorflow>=2.12,<3.0
+numpy>=1.24
+pandas>=2.0
+opencv-python>=4.8
+matplotlib>=3.7
